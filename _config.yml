@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   this personal website tracks to showcase some of my personal projects as well as my learning journey.
   <br><br>
   <a href="https://www.linkedin.com/in/kar-hor-yap-a4a887150/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
   
 remote_theme: pages-themes/minimal@v0.2.0
